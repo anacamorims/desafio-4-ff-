@@ -1,7 +1,7 @@
 ### 🗂 Menu Dropdown 🎮
 
 #
-Neste projeto, foi proposto o desenvolvimento de um menu dropdown. Foi desenvolvido um menu na temática de games, onde possui does menus dropdown mostrando opções sobre estilos de jogos e consoles.
+Neste projeto, foi proposto o desenvolvimento de um menu dropdown. Foi desenvolvido um menu na temática de games, onde possui dois menus dropdown mostrando opções sobre estilos de jogos e consoles.
 #
 
 ### 🛠️ Tecnologias usadas
