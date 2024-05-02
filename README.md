@@ -14,6 +14,7 @@ Neste projeto, foi proposto o desenvolvimento de um menu dropdown. Foi desenvolv
 
 - HTML Semântico
 - Flexbox
+- Responsividade
 - DOM
 - Funções JS
 #
